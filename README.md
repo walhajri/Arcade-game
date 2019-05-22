@@ -6,7 +6,6 @@ You can use arrows[← → ↑ ↓] to move your player and you must avoid the e
 
 ## Instructions to download the game
 
-- type 
 ```sh
 git clone https://github.com/walhajri/Arcade-game.git
 ```
