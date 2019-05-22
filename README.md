@@ -2,7 +2,7 @@
 
 ## How to play
 
-You can use arrows[← → ↑ ↓] to move your player and you must avoid the enemy bugs and your goal is to reach the river   
+You can use arrows[← → ↑ ↓] to move your player and you must avoid the enemy bugs, and your goal is to reach the river   
 
 ## Instructions to download the game
 
