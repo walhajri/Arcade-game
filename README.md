@@ -11,3 +11,4 @@ git clone https://github.com/walhajri/Arcade-game.git
 ```
 - then open the game folder
 - run the index.html file
+- or you can play it by clicking [here](https://walhajri.github.io/Arcade-game/)
